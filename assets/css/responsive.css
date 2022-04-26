@@ -1,0 +1,334 @@
+@media screen and (max-width: 700px){
+    
+    body {
+        width: 100%;
+    }
+
+    #Home {
+        margin-top: 100px;
+        margin-right: 300px;
+    }
+
+    .titulo1 {
+        width: 300px;
+        margin-top: -100px;
+        margin-left: 200px;
+    }
+
+    #titulo1home{
+        margin-left: 300px;
+        width: 320px;
+    }
+
+    #headerNav {
+        margin-left: 10px;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .textmenu {
+        display: none;
+    }
+
+    .descricao {
+        margin-left: 300px;
+        text-align: left;
+        font-size: 14px !important;
+        width: 300px !important;
+    }
+
+    #homeText{
+        margin-right: 0px;
+        width: 650px;
+    }
+
+    #imglogolarge {
+        display: none;
+    }
+    
+    #imggradient2 {
+        display: none;
+    }
+
+    #Projeto {
+        margin-left:30px;
+        width: 400px;
+        height: 600px;
+        margin-top: 60px;
+    }
+
+    .conteudoProjeto {
+        flex-direction: column;
+        margin-top: -20px;
+    }
+
+    .geral {
+        margin-left: -150px;
+        margin-top: 1px;
+        flex-direction: row;
+    }
+
+    .itemProjeto {
+        margin-left: 80px;
+        width: 70px;
+        height: 70px;
+    }
+
+    .subtitulo {
+        text-align: center;
+        width: 100px;
+        font-size: 18px;
+    }
+
+    .iconProjeto {
+        width: 40px;
+        height: 40px;
+    }
+
+    #result {
+        font-size: 12px;
+        width: 300px;
+    }
+
+    #subtitulo2 {
+        width: 400px;
+        font-size: 25px;
+    }
+
+    #subtituloProjeto {
+        margin-left: 5px;
+        font-size: 15px;
+        text-align: justify;
+    }
+
+    #componentlinesquare {
+        display: none;
+    }
+
+    #Eventos {
+        flex-direction: column;
+        margin-top: 40px;
+    }
+
+    #eventoimage {
+        width: 300px;
+        margin-left: 30px;
+    }
+
+    #eventotitulo {
+        margin-top: 5px;
+        margin-left: 30px;
+    }
+
+    #Equipe {
+        height: 400px;
+        margin-top: 100px;
+    }
+
+    .slide{
+        width: 222px;
+    }
+
+    .image img {
+        width: 220px;
+    }
+
+    .balls{
+        margin-left: -30px;
+    }
+
+    #voltar {
+        margin-top: 140px;
+        margin-left: -50px;
+    }
+
+    #next {
+        margin-top: 140px;
+        margin-left: 220px;
+    }
+
+    #gradiaente3 {
+        display: none;
+    }
+
+    .texttitulo {
+        margin-left: -200px; 
+    }
+
+    .textComite {
+        width: 300px;
+        margin-left: 75px;
+        margin-top: 25px;
+    }
+
+    .subtitulo2{
+        width: 400px;
+    }
+
+    #Conquista {
+        margin-left: 30px;
+        width: 400px;
+    }
+
+    #tituloresponsivo {
+        font-size: 30px;
+        margin-top: 10px;
+        margin-left: -20px;
+    }
+
+    #imagetitulo {
+        display: none;
+    }
+
+    #descricao2{
+        display: none;
+    }
+
+    #texto2 {
+        width: 400px;
+    }
+
+    .itemConquista {
+        width: 80px;
+        height: 80px;
+        margin-left: 5px;
+    }
+
+    #resultado {
+        width: 300px;
+    }
+
+    .imgtestee {
+        width: 400px;
+        background-image: url(../img/400ppxcampanha.png);
+    }
+
+    #subcampanha {
+        width: 300px;
+        margin-bottom: 10px;
+    }
+
+    #descricaocampanha {
+        margin-left: 20px;
+        text-align: left;
+    }
+
+    .designicon {
+        width: 50px;
+    }
+
+    #icons {
+        margin-left: 100px;
+    }
+
+    #imgMidias {
+        width: 300px;
+        height: 300px;
+        margin-top: -60px;
+        margin-left: 10px;
+    }
+
+    #tituloo{
+        display: none;
+    }
+
+    #Contato {
+        margin-left: 20px;
+    }
+
+    .inputform {
+        width: 250px;
+    }
+
+    #textarea{
+        width: 350px;
+        height: 120px;
+    }
+
+    .titulocontato {
+        margin-top: 10px;
+        margin-left: 3px;
+    }
+
+    #footer {
+        position: absolute;
+        height: 30vh;
+        margin-bottom: 0px;
+    }
+
+    .imagefooter {
+        margin-left: 1px;
+        width: 200px;
+        height: 150px;
+    }
+
+    .footertext{
+        display: none;
+    }
+
+    .comitetexheader{
+        margin-left: -10px;
+        width: 300px !important;
+    }
+
+    .tituloc {
+        margin-left: -100px !important;
+        margin-top: -5px;
+        font-size: 65px !important;
+        width: 100px;
+    }
+
+    .titulo {
+        width: 100px;
+    }
+
+    .imgu{
+        display: none;
+    }
+
+    .colorcomite {
+        margin-left: 40px !important;
+        font-size: 25px !important;
+    }
+
+    .comitesection{
+        margin-left: -150px !important;
+        width: 600px;
+    }
+
+    .descriaocomitee {
+        width: 160px !important;
+        text-align: left !important;
+    }
+
+    .comitesection {
+        margin-top: 80px !important;
+    }
+
+    .integrantes{
+       width: 250px !important;
+       margin-top: 5px !important;
+       margin-left: 250px !important;
+    }
+
+    .sectitulo{
+        margin-left: -60px !important;
+    }
+
+    .backgroundcomite{
+        transform: rotate(0deg) !important;
+        width: 735px !important;
+    }
+
+    #textosGeral {
+        width: 400px !important;
+    }
+
+    #geral {
+        width: 400px !important;
+    }
+
+    .colorespecial{
+        width: 200px !important; 
+    }
+}
